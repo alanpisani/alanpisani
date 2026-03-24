@@ -1,11 +1,10 @@
 <h1 align="center">👋 Hola, soy Alan Pisani</h1>
-<h2>💻 Analista de Sistemas orientado a Desarrollo Web</h2>
+<h3 align="center">💻 Analista de Sistemas orientado a Desarrollo Web</h3><br>
 
 <h2>🔹 Acerca de mi</h2>
 Soy Analista de Sistemas con foco en desarrollo web fullstack. Me interesa construir aplicaciones funcionales, bien estructuradas y con buena experiencia de usuario.
 
 Trabajo principalmente con tecnologías modernas del ecosistema web y tengo experiencia desarrollando proyectos reales y aplicaciones completas.
-
 
 <h2>🔹 Tecnologías</h2>
 
@@ -72,4 +71,4 @@ Trabajo principalmente con tecnologías modernas del ecosistema web y tengo expe
 LinkedIn: <a>https://www.linkedin.com/in/alan-pisani/</a><br>
 Email: alanpisani1993@gmail.com
 
-<H2 align="center">⭐ Actualmente buscando oportunidades como desarrollador web</H2>
+<br><H2 align="center">⭐ Actualmente buscando oportunidades como desarrollador web</H2>
