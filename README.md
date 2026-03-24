@@ -1,15 +1,15 @@
 <h1 align="center">👋 Hola, soy Alan Pisani</h1>
 <h2>💻 Analista de Sistemas orientado a Desarrollo Web</h2>
 
-<h3>🔹 Acerca de mi</h3>
+<h2>🔹 Acerca de mi</h2>
 Soy Analista de Sistemas con foco en desarrollo web fullstack. Me interesa construir aplicaciones funcionales, bien estructuradas y con buena experiencia de usuario.
 
 Trabajo principalmente con tecnologías modernas del ecosistema web y tengo experiencia desarrollando proyectos reales y aplicaciones completas.
 
 
-<h3>🔹 Tecnologías</h3>
+<h2>🔹 Tecnologías</h2>
 
-<h4>Frontend</h4>
+<h4>👉 Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=1A1A1A" />
@@ -19,7 +19,7 @@ Trabajo principalmente con tecnologías modernas del ecosistema web y tengo expe
   <img src="https://img.shields.io/badge/Bootstrap-080135?style=for-the-badge&logo=bootstrap" />
 </p>
 
-<h4>Backend</h4>
+<h4>👉 Backend</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet" />
@@ -28,18 +28,18 @@ Trabajo principalmente con tecnologías modernas del ecosistema web y tengo expe
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
-<h3>Base de datos</h3>
+<h4>👉 Base de datos</h4>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111" />
 </p>
 
-<h4>Mobile</h4>
+<h4>👉 Mobile</h4>
 <p>
   <img src="https://img.shields.io/badge/Flutter-1FBCFD?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
-<h4>Herramientas</h4>
+<h4>👉 Herramientas</h4>
 
 <p>
   <img src="https://img.shields.io/badge/Git-FF952E?style=for-the-badge&logo=git" />
