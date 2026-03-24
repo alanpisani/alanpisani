@@ -51,14 +51,14 @@ Trabajo principalmente con tecnologías modernas del ecosistema web y tengo expe
 
 <h2>🔹 Proyectos destacados</h2>
 
-👉 Turnero (React + .NET)
-Sistema de gestión de turnos con frontend en React y backend en .NET. Incluye lógica de negocio, manejo de estados y persistencia de datos.
+<h3>👉 Turnero (React + .NET)</h3>
+<p>Sistema de gestión de turnos con frontend en React y backend en .NET. Incluye lógica de negocio, manejo de estados y persistencia de datos.</p>
 
-👉 Web para clases de música (React)
-Landing page orientada a conversión, con diseño responsive, animaciones e integración de contacto directo.
+<h3>👉 Web para clases de música (React)</h3>
+<p></p>Landing page orientada a conversión, con diseño responsive, animaciones e integración de contacto directo.</p>
 
-👉 App de minijuegos (Flutter)
-Aplicación mobile con sistema de progresión, lógica de recompensas y mini juegos.
+<h3>👉 App de minijuegos (Flutter)</h3>
+<p></p>Aplicación mobile con sistema de progresión, lógica de recompensas y mini juegos.</p>
 
 <h2>🔹 Enfoque</h2>
 <ul>
