@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">👋 Hola, soy Alan Pisani</h1>
+<h2>💻 Analista de Sistemas orientado a Desarrollo Web</h2>
 
-<!--
-**alanpisani/alanpisani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🔹 Acerca de mi</h3>
+Soy Analista de Sistemas con foco en desarrollo web fullstack. Me interesa construir aplicaciones funcionales, bien estructuradas y con buena experiencia de usuario.
 
-Here are some ideas to get you started:
+Trabajo principalmente con tecnologías modernas del ecosistema web y tengo experiencia desarrollando proyectos reales y aplicaciones completas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3>🔹 Tecnologías</h3>
+
+<h4>Frontend</h4>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=1A1A1A" />
+  <img src="https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-080135?style=for-the-badge&logo=bootstrap" />
+</p>
+
+<h4>Backend</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
+
+<h3>Base de datos</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111" />
+</p>
+
+<h4>Mobile</h4>
+<p>
+  <img src="https://img.shields.io/badge/Flutter-1FBCFD?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+<h4>Herramientas</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-FF952E?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-211f1f?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-1D63ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+
+<h2>🔹 Proyectos destacados</h2>
+
+👉 Turnero (React + .NET)
+Sistema de gestión de turnos con frontend en React y backend en .NET. Incluye lógica de negocio, manejo de estados y persistencia de datos.
+
+👉 Web para clases de música (React)
+Landing page orientada a conversión, con diseño responsive, animaciones e integración de contacto directo.
+
+👉 App de minijuegos (Flutter)
+Aplicación mobile con sistema de progresión, lógica de recompensas y mini juegos.
+
+<h2>🔹 Enfoque</h2>
+<ul>
+  <li>Resolución práctica de problemas</li>
+  <li>Código claro y mantenible</li>
+  <li>Diseño responsive</li>
+</ul>
+
+<h2>🔹 Contacto</h2>
+
+LinkedIn: <a>https://www.linkedin.com/in/alan-pisani/</a><br>
+Email: alanpisani1993@gmail.com
+
+<H2 align="center">⭐ Actualmente buscando oportunidades como desarrollador web</H2>
