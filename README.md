@@ -11,17 +11,18 @@ Trabajo principalmente con tecnologías modernas del ecosistema web y tengo expe
 <h4>👉 Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=1A1A1A" />
   <img src="https://img.shields.io/badge/Typescript-02569B?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Tailwind-a5f3fc?style=for-the-badge&logo=tailwindcss" />
   <img src="https://img.shields.io/badge/HTML5-F06529?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-080135?style=for-the-badge&logo=bootstrap" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=1A1A1A" />
+  
 </p>
 
 <h4>👉 Backend</h4>
 
 <p>
-  <img src="https://img.shields.io/badge/Dotnet-512BD4?style=for-the-badge&logo=dotnet" />
+  <img src="https://img.shields.io/badge/.net-512BD4?style=for-the-badge&logo=dotnet" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
